@@ -59,7 +59,7 @@ const Header = () => {
                 </li>
               </ul>
             </nav>
-            <div className="lg:hidden block absolute top-1/2 left-0 w-[960px] h-[380px] translate-x-[-290px] -translate-y-1/2 rotate-90">
+            <div className="lg:hidden block absolute top-1/2 left-0 w-960 h-95 -translate-x-72.5 -translate-y-1/2 rotate-90">
               <img
                 src="/images/bg-outlines.svg"
                 width={960}
